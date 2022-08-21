@@ -33,6 +33,7 @@
     "mocha-multi": "1.0.1"
   },
   "dependencies": {
+    "lab": "^18.0.2",
     "sinon": "^7.2.5"
   }
 }
